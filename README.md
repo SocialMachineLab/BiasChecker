@@ -6,7 +6,7 @@ BiasChecker follows a distributed and extendable architecture that allows us to 
 ## Installation
 
 ```console
-git clone https://github.com/yangcandoit/BiasChecker.git
+git clone https://github.com/SocialMachineLab/BiasChecker.git
 ```
 
 open the BiasChecker folder
