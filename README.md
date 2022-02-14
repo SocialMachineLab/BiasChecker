@@ -38,9 +38,11 @@ There are two main references for this work: Paper [1] carries out a study on pe
 
 
 ```
-[1] Jonatas C. dos Santos, Sean W. M. Siqueira, Bernardo Pereira Nunes, Pedro P. Balestrassi, Fabrício R. S. Pereira: Is There Personalization in Twitter Search? A Study on polarized opinions about the Brazilian Welfare Reform. WebSci 2020: 267-276
+[1] Jonatas C. dos Santos, Sean W. M. Siqueira, Bernardo Pereira Nunes, Pedro P. Balestrassi, Fabrício R. S. Pereira: 
+Is There Personalization in Twitter Search? A Study on polarized opinions about the Brazilian Welfare Reform. WebSci 2020: 267-276
 
-[2] Can Yang, Bernardo Pereira Nunes, Jonatas Castro dos Santos, Sean Wolfgand Matsui Siqueira, Xinyuan Xu: The BiasChecker: how biased are social media searches? ASONAM 2021: 305-308
+[2] Can Yang, Bernardo Pereira Nunes, Jonatas Castro dos Santos, Sean Wolfgand Matsui Siqueira, Xinyuan Xu: 
+The BiasChecker: how biased are social media searches? ASONAM 2021: 305-308
 
 ```
 
