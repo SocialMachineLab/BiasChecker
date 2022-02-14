@@ -38,10 +38,9 @@ There are two main references for this work: Paper [1] carries out a study on pe
 
 
 ```
-[1] Jonatas C. dos Santos, Sean W. M. Siqueira, Bernardo Pereira Nunes, Pedro P. Balestrassi, Fabrício R. S. Pereira:
-Is There Personalization in Twitter Search? A Study on polarized opinions about the Brazilian Welfare Reform. WebSci 2020: 267-276
+[1] Jonatas C. dos Santos, Sean W. M. Siqueira, Bernardo Pereira Nunes, Pedro P. Balestrassi, Fabrício R. S. Pereira: Is There Personalization in Twitter Search? A Study on polarized opinions about the Brazilian Welfare Reform. WebSci 2020: 267-276
 
-[2] TODO / ASONAM
+[2] Can Yang, Bernardo Pereira Nunes, Jonatas Castro dos Santos, Sean Wolfgand Matsui Siqueira, Xinyuan Xu: The BiasChecker: how biased are social media searches? ASONAM 2021: 305-308
 
 ```
 
@@ -66,6 +65,35 @@ Is There Personalization in Twitter Search? A Study on polarized opinions about 
   doi       = {10.1145/3394231.3397917},
   timestamp = {Thu, 07 Oct 2021 07:49:23 +0200},
   biburl    = {https://dblp.org/rec/conf/websci/SantosSNBP20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+```
+
+@inproceedings{DBLP:conf/asunam/YangNSSX21,
+  author    = {Can Yang and
+               Bernardo Pereira Nunes and
+               Jonatas Castro dos Santos and
+               Sean Wolfgand Matsui Siqueira and
+               Xinyuan Xu},
+  editor    = {Michele Coscia and
+               Alfredo Cuzzocrea and
+               Kai Shu and
+               Ralf Klamma and
+               Sharyn O'Halloran and
+               Jon G. Rokne},
+  title     = {The BiasChecker: how biased are social media searches?},
+  booktitle = {{ASONAM} '21: International Conference on Advances in Social Networks
+               Analysis and Mining, Virtual Event, The Netherlands, November 8 -
+               11, 2021},
+  pages     = {305--308},
+  publisher = {{ACM}},
+  year      = {2021},
+  url       = {https://doi.org/10.1145/3487351.3489482},
+  doi       = {10.1145/3487351.3489482},
+  timestamp = {Mon, 24 Jan 2022 10:10:40 +0100},
+  biburl    = {https://dblp.org/rec/conf/asunam/YangNSSX21.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
