@@ -21,7 +21,7 @@ npm start ## start the manager
 ```
 open another terminal
 ```console
-cd manager 
+cd server 
 node server.js   ## start the server
 ```
 open another terminal(the number of terminals is dependent on the experiment)
